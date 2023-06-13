@@ -38,7 +38,7 @@ image: https://source.unsplash.com/collection/94734566/1920x1080
 
 <v-clicks>
 
-1. <bx-rfid/> XF_RFID_2.4G 读卡器开发
+1. <bx-rfid/>  读卡器开发
 2. <material-symbols-lock/> 电子锁开发
   
 </v-clicks>
@@ -48,7 +48,7 @@ css: unocss
 highlighter: shiki
 ---
 
-# <bx-rfid/> XF_RFID_2.4G 读卡器开发
+# <bx-rfid/>  读卡器开发
 
 
 <div class="flex flex-col">
@@ -90,7 +90,7 @@ css: unocss
 highlighter: shiki
 ---
 
-# <bx-rfid/> XF_RFID_2.4G 读卡器开发
+# <bx-rfid/>  读卡器开发
 
 
 <div class="flex flex-col">
@@ -135,7 +135,7 @@ css: unocss
 highlighter: shiki
 ---
 
-# <bx-rfid/> XF_RFID_2.4G 读卡器开发
+# <bx-rfid/>  读卡器开发
 
 
 <div class="flex">
@@ -189,7 +189,7 @@ css: unocss
 highlighter: shiki
 ---
 
-# <bx-rfid/> XF_RFID_2.4G 读卡器开发
+# <bx-rfid/>  读卡器开发
 
 
 <div class="flex">
@@ -247,7 +247,7 @@ css: unocss
 highlighter: shiki
 ---
 
-# <bx-rfid/> XF_RFID_2.4G 读卡器开发
+# <bx-rfid/>  读卡器开发
 
 
 <div class="flex flex-col">
@@ -288,7 +288,7 @@ css: unocss
 highlighter: shiki
 ---
 
-# <bx-rfid/> XF_RFID_2.4G 读卡器开发
+# <bx-rfid/>  读卡器开发
 
 
 <div class="flex flex-col">
@@ -333,7 +333,7 @@ css: unocss
 highlighter: shiki
 ---
 
-# <bx-rfid/> XF_RFID_2.4G 读卡器开发
+# <bx-rfid/>  读卡器开发
 
 sim_task() 主要代码
 
@@ -365,7 +365,7 @@ css: unocss
 highlighter: shiki
 ---
 
-# <bx-rfid/> XF_RFID_2.4G 读卡器开发
+# <bx-rfid/>  读卡器开发
 
 读卡操作
 
@@ -392,7 +392,7 @@ css: unocss
 highlighter: shiki
 ---
 
-# <bx-rfid/> XF_RFID_2.4G 读卡器开发
+# <bx-rfid/>  读卡器开发
 
 写卡操作
 
